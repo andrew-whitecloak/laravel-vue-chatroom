@@ -1,0 +1,27 @@
+/*
+$primary-color : ;
+$secondary-color : ;
+$tertiary-color : ;
+*/
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Roboto:300,400,500,700');
+$roboto :  'Roboto', sans-serif;
+$opensans : 'Open Sans', sans-serif;
+
+
+html, body {
+  font : {
+    family :  $opensans;
+    weight : 300;
+  }
+  color : rgba(0, 0, 0, .7);
+}
+
+
+footer{
+  h3 {
+    text-align: center;
+  }
+}

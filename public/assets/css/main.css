@@ -1,0 +1,17 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans|Roboto:300,400,500,700);/*
+$primary-color : ;
+$secondary-color : ;
+$tertiary-color : ;
+*/
+
+html,
+body {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 300;
+  color: rgba(0, 0, 0, 0.7);
+}
+
+footer h3 {
+  text-align: center;
+}
+
